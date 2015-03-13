@@ -63,6 +63,7 @@
 // command + x (with selection) : cut selection
 // command + v : paste most recent cut or copy
 // command + shift + v : paste with proper indentation
+// command + shift + a : select all text between tags
 
 var outerFunction = function(){
 
